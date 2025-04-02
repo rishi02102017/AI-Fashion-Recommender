@@ -24,7 +24,7 @@ Here’s the simplified pipeline that powers the recommender system:
 Upload Image → Remove Background → Extract Features → Recommend Similar Items
 ```
 
-![Flowchart](https://github.com/rishi02102017/relove-clothing-recommender/blob/main/ai_pipeline.png)
+![Flowchart](https://github.com/rishi02102017/relove-clothing-recommender/blob/main/ai_pipeline.jpg)
 
 1. Background Removal using `rembg`
 2. Feature Extraction using `ResNet18`
