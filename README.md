@@ -2,7 +2,7 @@
 
 This is an AI-powered fashion recommendation system that allows users to upload a clothing photo, removes the background, classifies the item, and suggests complementary outfit items.
 
-![Demo Banner](https://github.com/rishi02102017/relove-clothing-recommender/blob/main/assets/banner.png?raw=true)
+![Demo Banner](https://github.com/rishi02102017/relove-clothing-recommender/blob/main/banner.png?raw=true)
 
 ## 🔍 Features
 -  Background Removal (via `rembg`)
