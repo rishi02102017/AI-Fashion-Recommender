@@ -109,6 +109,6 @@ Colab URL: https://little-insects-rescue.loca.lt/upload
 **Jyotishman Das**  
 M.Tech Artificial Intelligence – IIT Jodhpur
 
-🌐 [Portfolio Website](https://my-portfolio-jyotishman-das-projects.vercel.app)
+-  [Portfolio Website](https://my-portfolio-jyotishman-das-projects.vercel.app)
 -  [GitHub](https://github.com/rishi02102017)
 -  [LinkedIn](https://www.linkedin.com/in/jyotishmandas85p/)
